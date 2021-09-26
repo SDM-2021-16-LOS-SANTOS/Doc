@@ -10,14 +10,14 @@
    Players can customize the number of coins to win in the game (for example, it is stipulated that whoever turns over 10 coins will win), and the player can also
    Exit, pause, and view rule operations.
     
-*3. Current processes
-    *1.Planning the game logic structure
-    *2.Write a game prototype
-    *3.Test the prototype
-    *4.Add the handling and feedback of each error in the game
-    *5.Optimize game algorithm
-    *6.Add UI to the game
-    *7.Test the full game
+* 3. Current processes
+   * 1.Planning the game logic structure
+   * 2.Write a game prototype
+   * 3.Test the prototype
+   * 4.Add the handling and feedback of each error in the game
+   * 5.Optimize game algorithm
+   * 6.Add UI to the game
+   * 7.Test the full game
 
 
 
