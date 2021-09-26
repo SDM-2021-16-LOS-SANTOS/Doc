@@ -30,7 +30,7 @@
 
 5. Law, rules, standards
      * 1.Should use C++  to create games and game interfaces.
-     * 2. UI should be created based on C++ console.
+     * 2.UI should be created based on C++ console.
 
 
 6. Requirement list
