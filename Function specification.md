@@ -12,19 +12,20 @@
     
 3. Current processes
     1.Planning the game logic structure
-    ->2.Write a game prototype
-    ->3.Test the prototype
-    ->4.Add the handling and feedback of each error in the game
-    ->5.Optimize game algorithm
-    ->6.Add UI to the game
-    ->7.Test the full game
+    2.Write a game prototype
+    3.Test the prototype
+    4.Add the handling and feedback of each error in the game
+    5.Optimize game algorithm
+    6.Add UI to the game
+    7.Test the full game
 
 
 
 4. Required processes
-      1.Need to have 2 players to play this game -> 2.each player throw 1-3 coins per round  .
-    ->3.Need to record the number of coins left and the number of rounds.
-    -> 4.The player who threw in the 10th coins firstly win.
+      1.Need to have 2 players to play this game 
+      2.each player throw 1-3 coins per round.
+      3.Need to record the number of coins left and the number of rounds.
+      4.The player who threw in the 10th coins firstly win.
 
 
 5. Law, rules, standards
