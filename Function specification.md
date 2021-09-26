@@ -23,6 +23,7 @@
 
 
 4. Required processes
+
       1.Need to have 2 players to play this game 
       2.each player throw 1-3 coins per round.
       3.Need to record the number of coins left and the number of rounds.
