@@ -41,7 +41,8 @@
 
 7. Dictionary
 
-8. Use case * 1. You choose to be player A or player B.
+8. Use case 
+   * 1. You choose to be player A or player B.
    * 2. Start the game, first show how many coins are still face up.
    * 3. Choose 1-3 coins and then choose to flip the numbered coins.
    * 4. Once you forget the rules, or don't want to continue playing, you can choose to view the rules and exit the game according to the prompts.
