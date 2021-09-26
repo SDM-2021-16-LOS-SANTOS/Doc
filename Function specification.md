@@ -11,7 +11,6 @@
    Exit, pause, and view rule operations.
     
 3. Current processes
-
     1.Planning the game logic structure
     2.Write a game prototype
     3.Test the prototype
