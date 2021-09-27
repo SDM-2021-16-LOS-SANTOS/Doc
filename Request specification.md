@@ -1,4 +1,4 @@
-1. Current situation
+*1. Current situation
 ----------------  
     We plan to write a coin game. It is an easy and interesting game. It belongs to take-away game. 
     This game can exercise your thinking and make you be thoughtful.
@@ -7,7 +7,7 @@
 2. Dream system
 ------------------- 
 
-    The game is a  two-player coin flipping game with a simple and clear game interface, and the game also provides brief instructions on how to perform operations.
+   The game is a  two-player coin flipping game with a simple and clear game interface, and the game also provides brief instructions on how to perform operations.
    Players can customize the number of coins to win in the game (for example, it is stipulated that whoever turns over 10 coins will win), and the player can also
    Exit, pause, and view rule operations.
     
