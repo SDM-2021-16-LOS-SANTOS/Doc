@@ -5,7 +5,8 @@
     
 
 2. Dream system
--------------------  
+------------------- 
+
     The game is a  two-player coin flipping game with a simple and clear game interface, and the game also provides brief instructions on how to perform operations.
    Players can customize the number of coins to win in the game (for example, it is stipulated that whoever turns over 10 coins will win), and the player can also
    Exit, pause, and view rule operations.
