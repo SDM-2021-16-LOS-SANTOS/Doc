@@ -1,4 +1,4 @@
-*1. Current situation
+1.* Current situation *
 ----------------  
     We plan to write a coin game. It is an easy and interesting game. It belongs to take-away game. 
     This game can exercise your thinking and make you be thoughtful.
