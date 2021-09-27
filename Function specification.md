@@ -32,7 +32,7 @@
       * 4.The player who threw in the 10th coins firstly win.
 
 
-5.### Law, rules, standards
+5. ### Law, rules, standards
 ----------------
      * 1.Should use C++  to create games and game interfaces.
      * 2. UI should be created based on C++ console.
