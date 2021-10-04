@@ -23,5 +23,5 @@ inputs must and be and, in some cases, also stating what was wrong with my input
 Requirement
 --------
 1. If user want to quit game, how can user do so.
-2. If players want to restart the game.
+2. If players want to restart the game
 3. If player wants to see the rules in the middle of the game (there must be a way how a player can look up the rules and after displaying rules game must resume).
