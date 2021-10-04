@@ -21,8 +21,6 @@
    * 6.Add UI to the game
    * 7.Test the full game
 
-
-
 4. # Required processes
 ------------------
   * 1.Need to have 2 players to play this game 
@@ -45,4 +43,5 @@
    
 
 7. # Dictionary
+    Dictionary is on the system design.
 ----------------------
